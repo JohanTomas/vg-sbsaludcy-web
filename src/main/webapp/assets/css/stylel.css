@@ -1,0 +1,28 @@
+.sidebar {
+    background: #2e2e2e;
+}
+
+/* ESTILO A LA ETIQUETA SPAN */
+.valid {
+    border-color: green;
+}
+.invalid {
+    border-color: red;
+}
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    display: none;
+}
+.error-message.active {
+    display: block;
+}
+
+.dropdown-menu li > a {
+    color: white;
+}
+
+.navbar .navbar-nav > li.open > .dropdown-menu {
+    margin-top: 0;
+    background: #2e2e2e;
+}

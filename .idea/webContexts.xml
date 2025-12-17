@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Category/c.restore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Category" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Category/category.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Category" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Category/editcategory.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Category" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Category/newcategory.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Category" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Medic/editmedic.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Medic" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Medic/m.restore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Medic" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Medic/medic.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Medic" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Medic/medichistory.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Medic" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Medic/newmedic.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Medic" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient/editpacient.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient/newpacient.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient/p.restore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient/pacient.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient/pacienthistory.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Pacient" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes/editreservation.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes/newreservation.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes/q.restore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes/quotes.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Quotes" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Report/reports.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Report" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Users/editusuer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Users" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Users/newuser.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Users" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Users/u.restore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Users" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/Users/user.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin/Users" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/layout.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
