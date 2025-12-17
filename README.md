@@ -1,4 +1,4 @@
-# AS231S3_T12-be
+# Proyecto de Servicio Básico de Salud - Cañete Yauyos
 
 ![Screenshot 2024-06-17 095947](https://github.com/vallegrande/AS231S3_T12-be/assets/126691208/a70eb855-ca4a-4c8f-9c88-2444e475feea)
 
